@@ -1,0 +1,11 @@
+BUSINESS INSIGHTS
+=================
+
+Model Accuracy (R2): 0.93262102228097
+
+Key Findings:
+
+- Store ID strongly influences sales.
+- Holiday periods affect demand.
+- CPI and unemployment impact sales patterns.
+- Model explains over 93% of sales variation.
